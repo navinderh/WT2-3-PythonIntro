@@ -1,0 +1,7 @@
+name: WT2 Python Intro
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas 
+  - matplotlib
